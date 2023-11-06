@@ -1,1 +1,2 @@
-# Grip-Sparkfoundation-Task2
+# Color Classification Model
+
